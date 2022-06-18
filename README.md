@@ -1,2 +1,3 @@
 # Step3ofHustle-Using-CSS-Framework-HTML-
-Another Website Designed @LG. Hustling Hard for the Dream @LG
+Another Sample Website kike Tindog has been Designed. Hustle is going on!
+MabhuSubhani@LG
